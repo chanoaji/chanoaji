@@ -21,6 +21,7 @@ html,body{
 }
 
 .navigation{
+    font-family: 'Belleza', serif;
 	position:fixed;
 	z-index:2; /* always stays on front of th z axis through all slides */
 	top:25%;
@@ -50,22 +51,15 @@ html,body{
 	cursor:pointer;
 	/*width:100px!important;*/
 }
-.envatologo{
-position:fixed;
-top:50%;
-left:50%;
-width:446px;
-margin-top:-41px;
-margin-left:-223px;
-z-index:1; /* also on top of z layer always on top. ONNATOP */
-}
+
 .slide{
 	background-attachment: fixed;
 	width:100%;
 	height:100%;
 	position: relative; /* so we can absolutely position the classes 'slideno' and 'button' against this*/
-	box-shadow:inset 0px 10px 10px rgba(0,0,0,0.3);  /*nice shadow effect on top of every slide. thanks CSS3.*/
+	box-shadow:inset 10px 10px 10px rgba(0,0,0,0.3);  /*nice shadow effect on top of every slide. thanks CSS3.*/
 }
+
 .wrapper{
 	width:960px;
 	height:200px;
@@ -73,15 +67,29 @@ z-index:1; /* also on top of z layer always on top. ONNATOP */
 	position:relative;
 }
 
+.backgrounded-text {
+    top: 25%;
+    font-family: 'Belleza', serif;
+    position: absolute;
+    left: 38%;
+    right: 12%;
+    font-size: 22px;
+    color: transparent;
+    border-radius: 15px;
+    background-color: rgba(0, 0, 0, 0.8); /* slighly transparent black */
+    padding: 15px;
+}
 
 .centered-text{
-    font-family: 'Domine', serif;
+    top:25%;
+    font-family: 'Belleza', serif;
     position: absolute;
     left:38%;
     right:12%;
-    font-size:18px;
-    font-weight: bold;
-    color:rgba(0, 0, 0, 0.3);
+    font-size: 22px;
+    color:rgba(255, 255, 255, 0.7);
+    border-radius: 15px;
+    padding: 15px;
 }
 
 .slideno-dark{
