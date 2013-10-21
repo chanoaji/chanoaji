@@ -92,6 +92,10 @@ html,body{
     padding: 15px;
 }
 
+.centered-text a{
+    text-decoration: none;
+}
+
 .slideno-dark{
 	position:absolute;
 	bottom:0px;
