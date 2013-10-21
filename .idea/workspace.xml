@@ -22,7 +22,7 @@
       <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="60" column="62" selection-start="2311" selection-end="2417" vertical-scroll-proportion="0.13204226">
+            <state line="57" column="20" selection-start="2200" selection-end="2200" vertical-scroll-proportion="0.16197184">
               <folding />
             </state>
           </provider>
@@ -48,8 +48,8 @@
     <option name="changedFiles">
       <list>
         <option value="$PROJECT_DIR$/css/normalize.css" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/css/style.css" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
@@ -429,7 +429,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="60" column="62" selection-start="2311" selection-end="2417" vertical-scroll-proportion="0.13204226">
+        <state line="57" column="20" selection-start="2200" selection-end="2200" vertical-scroll-proportion="0.16197184">
           <folding />
         </state>
       </provider>
