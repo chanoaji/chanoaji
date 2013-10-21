@@ -22,7 +22,7 @@
       <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="23" column="40" selection-start="1023" selection-end="1023" vertical-scroll-proportion="0.6883803">
+            <state line="50" column="64" selection-start="2107" selection-end="2107" vertical-scroll-proportion="0.16197184">
               <folding />
             </state>
           </provider>
@@ -31,7 +31,7 @@
       <file leaf-file-name="style.css" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="845" column="1" selection-start="16051" selection-end="16051" vertical-scroll-proportion="0.0">
+            <state line="39" column="4" selection-start="846" selection-end="846" vertical-scroll-proportion="-18.0">
               <folding />
             </state>
           </provider>
@@ -52,8 +52,8 @@
         <option value="$PROJECT_DIR$/css/_normalize.scss" />
         <option value="$PROJECT_DIR$/js/skrollr.js" />
         <option value="$PROJECT_DIR$/css/style.scss" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/css/style.css" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
@@ -409,14 +409,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="845" column="1" selection-start="16051" selection-end="16051" vertical-scroll-proportion="0.0">
+        <state line="39" column="4" selection-start="846" selection-end="846" vertical-scroll-proportion="-18.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="23" column="40" selection-start="1023" selection-end="1023" vertical-scroll-proportion="0.6883803">
+        <state line="50" column="64" selection-start="2107" selection-end="2107" vertical-scroll-proportion="0.16197184">
           <folding />
         </state>
       </provider>

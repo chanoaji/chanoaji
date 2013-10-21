@@ -13,8 +13,31 @@
     font-style: normal;
 
 }
+
+h1, h2, h3 {
+    font-family: 'PT Serif', serif;
+    font-weight: 700;
+    text-align: center;
+}
+
+
+h2 {
+    font-size: 1.6em;
+    margin-top: 1.5em;
+    margin-bottom: 1.5em;
+}
+
+h3 {
+    font-size: 1.1em;
+    font-family: 'PT Sans', sans-serif;
+    font-weight: 700;
+    margin-bottom: 1em;
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+}
+
 html,body{
- font-family: 'BebasRegular';
+    font-family: 'PT Serif', serif;
     /* takes the whole screen space */
 	width:100%;
 	height:100%;
@@ -69,11 +92,11 @@ html,body{
 
 .backgrounded-text {
     top: 25%;
-    font-family: 'Belleza', serif;
+    font-family: 'PT Serif', serif;
     position: absolute;
     left: 38%;
     right: 12%;
-    font-size: 22px;
+    font-size: 20px;
     color: transparent;
     border-radius: 15px;
     background-color: rgba(0, 0, 0, 0.8); /* slighly transparent black */
@@ -82,11 +105,11 @@ html,body{
 
 .centered-text{
     top:25%;
-    font-family: 'Belleza', serif;
+    font-family: 'PT Serif', serif;
     position: absolute;
     left:38%;
     right:12%;
-    font-size: 22px;
+    font-size: 20px;
     color:rgba(255, 255, 255, 0.7);
     border-radius: 15px;
     padding: 15px;
@@ -101,6 +124,7 @@ html,body{
 	position:absolute;
 	bottom:0px;
 	left:10px;
+    font-family: 'BebasRegular', serif;
 	font-size:100px;
 	font-weight:bold;
 	/*color:rgba(255,255,255,0.3);*/
@@ -111,6 +135,7 @@ html,body{
     position: absolute;
     bottom: 0px;
     left: 10px;
+    font-family: 'BebasRegular', serif;
     font-size: 100px;
     font-weight: bold;
     color:rgba(255,255,255,0.6);
@@ -170,6 +195,12 @@ html,body{
     z-index: 1;
 }
 
+#slide3 first-child {
+    position: relative;
+    top: 700px;
+    left: -150px;
+}
+
 /******************************
  SLIDE 4 
 *******************************/
@@ -186,6 +217,10 @@ html,body{
 	font-size:28px;
 	color:rgba(51,51,51,0.3);
 }
+
+
+
+
 
 /******************************
 NORMALIZE
@@ -582,11 +617,13 @@ FLUID_SKELETON
 ================================================== */
 
 .container {
+
     position: relative;
     width: 100%;
     max-width: 960px;
     margin: 0 auto;
     padding: 0;
+    top: 10%;
 }
 
 .container .columns,
