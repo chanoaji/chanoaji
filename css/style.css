@@ -23,24 +23,32 @@ html,body{
 .navigation{
 	position:fixed;
 	z-index:2; /* always stays on front of th z axis through all slides */
-	top:20px;
+	top:25%;
+    border-top-right-radius: 15px;
+    border-bottom-right-radius: 15px;
+    border-top-left-radius: 0px;
+    width: 73px;
+    background-color: rgba(0, 0, 0, 0.7); /* slighly transparent white */
 }
+
 .navigation li{
-	color:#333333;
+    color: rgba(255, 255, 255, 0.6); /*Very transparent black*/
 	display:block;
-	padding: 0 10px;
+	padding: 3px 5px;
 	line-height:30px;
 	margin-bottom:2px;
-	font-weight:bold;
+	/*font-weight:bold;*/
 	-webkit-transition: all .2s ease-in-out; /* transition with CSS3 when hovering*/
-	border-bottom:1px solid black;
+	/*border-bottom:1px solid black;*/
 	text-align:left;
 	width:53px;
+
+
 }
 .navigation li:hover,.active{
-	font-size:25px;
+	/*font-size:25px;*/
 	cursor:pointer;
-	width:100px!important;
+	/*width:100px!important;*/
 }
 .envatologo{
 position:fixed;
@@ -117,8 +125,17 @@ z-index:1; /* also on top of z layer always on top. ONNATOP */
 *******************************/
 #slide1{
 	/*background-color:#5c9900;*/
-    background-image: url(../images/grey_wash_wall.png);
-    z-index:1;
+    background-image: url(../images/slide3/chamonix.jpg);
+    z-index: 1;
+    /*
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: fixed;
+    */
+
 	
 }
 /******************************
@@ -136,13 +153,8 @@ z-index:1; /* also on top of z layer always on top. ONNATOP */
 *******************************/
 #slide3{
 	/*background-color:#b6c10b;*/
-    background-image: url(../images/slide3/chamonix.jpg);
-    -webkit-background-size: cover; /*set the image to covers the whole browser window and resizes as the window resizes*/
-    -moz-background-size: cover;
-    -o-background-size: cover;
-    background-size: cover;
-    background-repeat: no-repeat;
-    background-position: fixed;
+    background-image: url(../images/grey_wash_wall.png);
+    z-index: 1;
 }
 
 /******************************
