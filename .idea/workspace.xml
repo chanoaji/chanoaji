@@ -22,7 +22,7 @@
       <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="40" column="17" selection-start="1767" selection-end="1767" vertical-scroll-proportion="0.42077464">
+            <state line="5" column="29" selection-start="123" selection-end="130" vertical-scroll-proportion="0.16409266">
               <folding />
             </state>
           </provider>
@@ -31,7 +31,7 @@
       <file leaf-file-name="style.css" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="107" column="17" selection-start="2505" selection-end="2505" vertical-scroll-proportion="0.0">
+            <state line="1002" column="1" selection-start="18694" selection-end="18694" vertical-scroll-proportion="-21.4">
               <folding />
             </state>
           </provider>
@@ -156,7 +156,12 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/parallax-Archive" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/tutorial-source-files" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Kirby\vanessapasquet.com\src\images" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration default="true" type="RSpecRunConfigurationType" factoryName="RSpec">
@@ -430,14 +435,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="107" column="17" selection-start="2505" selection-end="2505" vertical-scroll-proportion="0.0">
+        <state line="1002" column="1" selection-start="18694" selection-end="18694" vertical-scroll-proportion="-21.4">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="40" column="17" selection-start="1767" selection-end="1767" vertical-scroll-proportion="0.42077464">
+        <state line="5" column="29" selection-start="123" selection-end="130" vertical-scroll-proportion="0.16409266">
           <folding />
         </state>
       </provider>
