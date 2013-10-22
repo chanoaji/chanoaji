@@ -66,8 +66,6 @@ html,body{
 	/*border-bottom:1px solid black;*/
 	text-align:left;
 	width:53px;
-
-
 }
 .navigation li:hover,.active{
 	/*font-size:25px;*/
@@ -91,31 +89,15 @@ html,body{
 }
 
 .backgrounded-text {
-    top: 25%;
-    font-family: 'PT Serif', serif;
-    position: absolute;
-    left: 38%;
-    right: 12%;
+    font-family: 'Belleza', serif;
     font-size: 20px;
-    color: transparent;
+    color: rgba(255, 255, 255, 0.7);
     border-radius: 15px;
     background-color: rgba(0, 0, 0, 0.8); /* slighly transparent black */
     padding: 15px;
 }
 
-.centered-text{
-    top:25%;
-    font-family: 'PT Serif', serif;
-    position: absolute;
-    left:38%;
-    right:12%;
-    font-size: 20px;
-    color:rgba(255, 255, 255, 0.7);
-    border-radius: 15px;
-    padding: 15px;
-}
-
-.centered-text a{
+.backgrounded-text a {
     text-decoration: none;
     color: rgba(255, 255, 255, 0.7);
 }
@@ -141,22 +123,25 @@ html,body{
     color:rgba(255,255,255,0.6);
 }
 
-
-
 .button{
+
 	display:block;
-	width:50px;
-	height:50px;
+	width:30px;
+	height:30px;
 	position:absolute;
 	bottom:0px;
 	left:50%;
 	background-color:#333333;
 	background-image:url(../images/arrow.png);
+    background-size: 30px;
 }
+
+
 .button:hover{
 	background-color:#494949;
 	cursor:pointer;
 }
+
 
 /******************************
  SLIDE 1 
@@ -195,11 +180,6 @@ html,body{
     z-index: 1;
 }
 
-#slide3 first-child {
-    position: relative;
-    top: 700px;
-    left: -150px;
-}
 
 /******************************
  SLIDE 4 
