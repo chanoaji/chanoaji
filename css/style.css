@@ -88,6 +88,17 @@ html,body{
 	position:relative;
 }
 
+.light-text {
+    font-family: 'Belleza', serif;
+    font-size: 20px;
+    color: rgba(255, 255, 255, 0.7);
+}
+
+.light-text a {
+    text-decoration: none;
+    color: rgba(255, 255, 255, 0.7);
+}
+
 .backgrounded-text {
     font-family: 'Belleza', serif;
     font-size: 20px;

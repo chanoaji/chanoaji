@@ -135,21 +135,40 @@ styling for A-grade browsers-->
 
 	<div class="slide" id="slide4" data-slide="4" data-stellar-background-ratio="0">
 
-        <div class='container'>
+        <div class='container light-text    '>
             <div class='columns seven offset-by-one'>
 
-                <h3><img src='images/social/Mail.png' style="vertical-align: middle;" > pasquet.vanessa@gmail.com</h3>
-                <h3><img src='images/social/Twitter.png' style="vertical-align: middle;" > @vanessa_pasquet </h3>
+                <h4><img src='images/social/Mail.png' style="vertical-align: middle;" > pasquet.vanessa@gmail.com </h4>
+                <h4><img src='images/social/Twitter.png' style="vertical-align: middle;" > @vanessa_pasquet </h4>
                 <br/>
-                <br/>
-                <br/>
-                <img src='images/social/LinkedIn.png' >
-                <img src='images/social/Google+.png'>
 
+                <a href="http://www.linkedin.com/profile/view?id=146572313" target="_blank">
+                    <img src='images/social/LinkedIn.png' >
+                </a>
+                <a href="http://www.facebook.com/vcolisa" target="_blank">
+                    <img src='images/social/Facebook.png'>
+                </a>
+                <a href="https://plus.google.com/108847224584547856984/posts" target="_blank">
+                    <img src='images/social/Google+.png'>
+                </a>
+
+                <br/>
 
             </div>
-            <div class='columns seven last  '>
-                <h1>Reach</h1>
+
+            <div class='columns seven last'>
+                <a class="twitter-timeline" width="200" height="500" data-chrome="nofooter transparent noscrollbar"
+                   data-dnt="true" href="https://twitter.com/vanessa_pasquet"
+                   data-widget-id="299122342628564992">Tweets</a>
+                <script>!function (d, s, id) {
+                    var js, fjs = d.getElementsByTagName(s)[0], p = /^http:/.test(d.location) ? 'http' : 'https';
+                    if (!d.getElementById(id)) {
+                        js = d.createElement(s);
+                        js.id = id;
+                        js.src = p + "://platform.twitter.com/widgets.js";
+                        fjs.parentNode.insertBefore(js, fjs);
+                    }
+                }(document, "script", "twitter-wjs");</script>
 
             </div>
 
@@ -161,7 +180,13 @@ styling for A-grade browsers-->
 
 	</div><!--End Slide 4-->
 
-
+    <!--js stuff down here after the rest of the page has loaded-->
+    <script type="text/javascript" src="js/skrollr.js"></script>
+    <script type="text/javascript">
+        skrollr.init({
+            forceHeight:false
+        });
+    </script>
 
 </body>
 </html>
