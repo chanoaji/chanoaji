@@ -110,7 +110,7 @@ html,body{
 
 .backgrounded-text a {
     text-decoration: none;
-    color: rgba(255, 255, 255, 0.7);
+    color: rgb(90, 214, 167);
 }
 
 .slideno-dark{
@@ -161,14 +161,14 @@ html,body{
 	/*background-color:#5c9900;*/
     background-image: url(../images/slide3/chamonix.jpg);
     z-index: 1;
-    /*
+
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover;
     background-repeat: no-repeat;
-    background-position: fixed;
-    */
+    /*background-position: fixed;*/
+
 
 	
 }
