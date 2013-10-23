@@ -22,8 +22,10 @@
       <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="468" column="29" selection-start="21213" selection-end="21213" vertical-scroll-proportion="0.9358491">
-              <folding />
+            <state line="531" column="67" selection-start="24233" selection-end="24233" vertical-scroll-proportion="0.23018868">
+              <folding>
+                <element signature="tag#div#2;tag#body#0;tag#html#0" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -360,7 +362,9 @@
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="125" column="59" selection-start="4652" selection-end="4652" vertical-scroll-proportion="0.0">
-          <folding />
+          <folding>
+            <element signature="tag#div#2;tag#body#0;tag#html#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -374,28 +378,36 @@
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="103" column="2" selection-start="4059" selection-end="4059" vertical-scroll-proportion="0.0">
-          <folding />
+          <folding>
+            <element signature="tag#div#2;tag#body#0;tag#html#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="103" column="2" selection-start="3877" selection-end="3877" vertical-scroll-proportion="0.0">
-          <folding />
+          <folding>
+            <element signature="tag#div#2;tag#body#0;tag#html#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="103" column="2" selection-start="3877" selection-end="3877" vertical-scroll-proportion="0.0">
-          <folding />
+          <folding>
+            <element signature="tag#div#2;tag#body#0;tag#html#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="103" column="2" selection-start="3877" selection-end="3877" vertical-scroll-proportion="0.0">
-          <folding />
+          <folding>
+            <element signature="tag#div#2;tag#body#0;tag#html#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -443,8 +455,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="468" column="29" selection-start="21213" selection-end="21213" vertical-scroll-proportion="0.9358491">
-          <folding />
+        <state line="531" column="67" selection-start="24233" selection-end="24233" vertical-scroll-proportion="0.23018868">
+          <folding>
+            <element signature="tag#div#2;tag#body#0;tag#html#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
