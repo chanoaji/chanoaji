@@ -3,15 +3,10 @@
 
 /* CSS3 for font management*/
 @font-face {
-    font-family: 'BebasRegular';
-    src: url('font/BEBAS___-webfont.eot');
-    src: url('font/BEBAS___-webfont.eot?#iefix') format('embedded-opentype'),
-         url('font/BEBAS___-webfont.woff') format('woff'),
-         url('font/BEBAS___-webfont.ttf') format('truetype'),
-         url('font/BEBAS___-webfont.svg#BebasRegular') format('svg');
+    font-family: 'SketchRockwell';
+    src: url('font/SketchRockwell-Bold.ttf') format('truetype');
     font-weight: normal;
     font-style: normal;
-
 }
 
 h1, h2, h3 {
@@ -117,7 +112,7 @@ html,body{
 	position:absolute;
 	bottom:0px;
 	left:10px;
-    font-family: 'BebasRegular', serif;
+    font-family: 'SketchRockwell', serif;
 	font-size:100px;
 	font-weight:bold;
 	/*color:rgba(255,255,255,0.3);*/
@@ -128,7 +123,7 @@ html,body{
     position: absolute;
     bottom: 0px;
     left: 10px;
-    font-family: 'BebasRegular', serif;
+    font-family: 'SketchRockwell', serif;
     font-size: 100px;
     font-weight: bold;
     color:rgba(255,255,255,0.6);

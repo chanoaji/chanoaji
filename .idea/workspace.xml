@@ -22,10 +22,8 @@
       <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="540" column="102" selection-start="24676" selection-end="24676" vertical-scroll-proportion="-5.392157">
-              <folding>
-                <element signature="tag#div#2;tag#body#0;tag#html#0" expanded="false" />
-              </folding>
+            <state line="520" column="44" selection-start="21412" selection-end="21412" vertical-scroll-proportion="-173.33333">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -33,7 +31,7 @@
       <file leaf-file-name="style.css" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="945" column="35" selection-start="17800" selection-end="17800" vertical-scroll-proportion="0.82073814">
+            <state line="125" column="41" selection-start="2669" selection-end="2669" vertical-scroll-proportion="3.7346222">
               <folding />
             </state>
           </provider>
@@ -152,6 +150,24 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="font" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
     </panes>
@@ -162,6 +178,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Kirby\vanessapasquet.com\src\css\font" />
       <recent name="C:\Users\Kirby\vanessapasquet.com\src\images\theoriz" />
       <recent name="C:\Users\Kirby\vanessapasquet.com\src\images" />
     </key>
@@ -362,9 +379,7 @@
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="125" column="59" selection-start="4652" selection-end="4652" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="tag#div#2;tag#body#0;tag#html#0" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -378,36 +393,28 @@
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="103" column="2" selection-start="4059" selection-end="4059" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="tag#div#2;tag#body#0;tag#html#0" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="103" column="2" selection-start="3877" selection-end="3877" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="tag#div#2;tag#body#0;tag#html#0" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="103" column="2" selection-start="3877" selection-end="3877" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="tag#div#2;tag#body#0;tag#html#0" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="103" column="2" selection-start="3877" selection-end="3877" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="tag#div#2;tag#body#0;tag#html#0" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -448,16 +455,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="540" column="102" selection-start="24676" selection-end="24676" vertical-scroll-proportion="-5.392157">
-          <folding>
-            <element signature="tag#div#2;tag#body#0;tag#html#0" expanded="false" />
-          </folding>
+        <state line="520" column="44" selection-start="21412" selection-end="21412" vertical-scroll-proportion="-173.33333">
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="945" column="35" selection-start="17800" selection-end="17800" vertical-scroll-proportion="0.82073814">
+        <state line="125" column="41" selection-start="2669" selection-end="2669" vertical-scroll-proportion="3.7346222">
           <folding />
         </state>
       </provider>
