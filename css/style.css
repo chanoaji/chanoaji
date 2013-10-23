@@ -943,9 +943,9 @@ h1#logo {
 }
 
 #menu a.selected {
-    background: #AAA;
+    background: rgba(0, 0, 0, 0.7);
     color: #FFF;
-    border: #67b2ff 3px solid;
+    border: #5ad6a7 2px solid;
     text-decoration: none;
     padding: 10px;
     margin-right: 10px;
